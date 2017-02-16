@@ -1,6 +1,54 @@
-Keybase proof
+==================================================================
+https://keybase.io/jarman
+--------------------------------------------------------------------
 
 I hereby claim:
 
+  * I am an admin of https://jaredholzman.github.io
   * I am jarman (https://keybase.io/jarman) on keybase.
-  * I have a public key whose fingerprint is D4E9 6D55 7068 1B45 0601  53E9 4533 4B6C 7D39 7582
+  * I have a public key ASCHDTG8-eBfN5lIG32edBY4lcb1sopDSZqu7-vU7qLQCwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013a6e3ffc026e69b4c792db513b97de72453fb694b74c41eb914212d82958a1330a",
+            "host": "keybase.io",
+            "kid": "0120870d31bcf9e05f3799481b7d9e74163895c6f5b28a43499aaeefebd4eea2d00b0a",
+            "uid": "c5a620f53f8f7bccb10a058e74d77e19",
+            "username": "jarman"
+        },
+        "service": {
+            "hostname": "jaredholzman.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487211410,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487211386,
+        "hash": "062c1bfdf2b3fc8de59fdc7dab8b1ed140c472a8b34ff38c9f85ced4c80fa0e59cb7032c0e2a6572948319286600169cf1d76ae472a1e1192bdb9cda297c8381",
+        "seqno": 894837
+    },
+    "prev": "274fda81c01e1f783181c92ed82a8eb363435805946e07c9febcaae1a1cf00de",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghw0xvPngXzeZSBt9nnQWOJXG9bKKQ0maru/r1O6i0AsKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxM2E2ZTNmZmMwMjZlNjliNGM3OTJkYjUxM2I5N2RlNzI0NTNmYjY5NGI3NGM0MWViOTE0MjEyZDgyOTU4YTEzMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODcwZDMxYmNmOWUwNWYzNzk5NDgxYjdkOWU3NDE2Mzg5NWM2ZjViMjhhNDM0OTlhYWVlZmViZDRlZWEyZDAwYjBhIiwidWlkIjoiYzVhNjIwZjUzZjhmN2JjY2IxMGEwNThlNzRkNzdlMTkiLCJ1c2VybmFtZSI6Imphcm1hbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiamFyZWRob2x6bWFuLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg3MjExNDEwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODcyMTEzODYsImhhc2giOiIwNjJjMWJmZGYyYjNmYzhkZTU5ZmRjN2RhYjhiMWVkMTQwYzQ3MmE4YjM0ZmYzOGM5Zjg1Y2VkNGM4MGZhMGU1OWNiNzAzMmMwZTJhNjU3Mjk0ODMxOTI4NjYwMDE2OWNmMWQ3NmFlNDcyYTFlMTE5MmJkYjljZGEyOTdjODM4MSIsInNlcW5vIjo4OTQ4Mzd9LCJwcmV2IjoiMjc0ZmRhODFjMDFlMWY3ODMxODFjOTJlZDgyYThlYjM2MzQzNTgwNTk0NmUwN2M5ZmViY2FhZTFhMWNmMDBkZSIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAEUzrIsoQI+W6Mua8SrRM/zh7Dj5FNly/hurqI984xCaSliL0Vi5HuWNDkDSzWuF1b/Lln0fqb0cmGM06ce/IKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgo6DTD7Gj6aCoFbOHXKv/HMPuyWzg0P85LqwVB+iXgRujdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jarman
+
+==================================================================
